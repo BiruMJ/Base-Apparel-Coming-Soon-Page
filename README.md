@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![./images/Store%20Screenshot.png](Base Apparel Screenshot)
+![Base Apparel Screenshot](./images/Store%20Screenshot.png)
 
 ### Links
 
