@@ -278,6 +278,8 @@ footer {
 }
 
 .attribution {
+    width: 100%;
+    position: absolute;
     padding: 0.7rem;
     background-color: hsl(0, 80%, 86%);
     font-size: 14px;
@@ -295,4 +297,5 @@ footer {
 
 .attribution a:hover {
     text-decoration: underline;
+
 }
